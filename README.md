@@ -25,7 +25,7 @@ This Flutter app converts temperatures between Fahrenheit and Celsius. It featur
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/temp_converter_flutter.git
+   git clone https://github.com/fadhuweb/temp_converter_flutter.git
    cd temp_converter_flutter
    ```
 
