@@ -61,8 +61,7 @@ This Flutter app converts temperatures between Fahrenheit and Celsius. It featur
 - The app demonstrates effective use of Flutter state management (`setState`) and widget composition.
 
 ## Author
-
-Your Name - [GitHub Profile](https://github.com/yourusername)
+Abdulazeez Fadhlullah 
 
 ## License
 
